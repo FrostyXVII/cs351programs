@@ -1,0 +1,21 @@
+INDEX VERSION 1.126+D:\Libraries\Documents\School Files\CS 351 Java Programs\.metadata\.plugins\org.eclipse.jdt.core
+3125047559.index
+1288889815.index
+3443736977.index
+1901622130.index
+3304394170.index
+1576819712.index
+1840306256.index
+721120406.index
+1605753874.index
+2511245067.index
+2732360955.index
+3030382901.index
+1423357031.index
+764848271.index
+2779857122.index
+1519491097.index
+3587945581.index
+3353442650.index
+1003869505.index
+3018997036.index

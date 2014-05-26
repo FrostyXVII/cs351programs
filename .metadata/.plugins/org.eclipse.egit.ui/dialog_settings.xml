@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework14.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework13.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework12.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework1.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework11.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework10.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework9.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework8.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework7.git"/>
+		<item value="ssh://gonza264@ale.cae.uwm.edu:53211/afs/cs.uwm.edu/users/classes/cs351/401/gonza264/git/homework6.git"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+</section>
